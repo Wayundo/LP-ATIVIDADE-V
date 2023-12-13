@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 
-#define TAM 2
+#define TAM 10
 
 struct cadastro{
    char nome[500];
